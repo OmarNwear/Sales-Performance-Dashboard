@@ -4,7 +4,7 @@ An interactive Sales Performance Dashboard built using Microsoft Excel to analyz
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](images/Sales-Dashboard.png)
+![Sales Dashboard Preview](images/Sales-Dashboard.png)
 
 ## Project Overview
 
